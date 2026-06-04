@@ -1,0 +1,31 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Note Sheet -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,25 h40 a5,5 0 0 1 5,5 v50 a5,5 0 0 1 -5,5 h-40 a5,5 0 0 1 -5,-5 v-50 a5,5 0 0 1 5,-5 z" />
+    <!-- Lines on Note -->
+    <path
+        android:strokeColor="#BDBDBD"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M35,40 h30 M35,50 h30 M35,60 h20" />
+    <!-- Check Mark -->
+    <path
+        android:strokeColor="#4CAF50"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M35,70 l5,5 l10,-10" />
+    <!-- Pen Body -->
+    <path
+        android:fillColor="#2196F3"
+        android:pathData="M78,35 l5,5 l-25,25 l-5,-5 z" />
+    <!-- Pen Tip -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M53,60 l5,5 l-8,2 z" />
+</vector>

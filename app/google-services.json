@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1054000470756",
+    "project_id": "com-example-takenoteapp3-5ea10",
+    "storage_bucket": "com-example-takenoteapp3-5ea10.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054000470756:android:d246356102204b881b2af1",
+        "android_client_info": {
+          "package_name": "com.example.take_note_app_3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-GRMoxR5C8bqayOjmU2VN72nUbGScV1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
